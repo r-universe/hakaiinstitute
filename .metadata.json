@@ -1,1 +1,6 @@
-[]
+[
+  {
+    "package": "hakaiApi",
+    "oncran": true
+  }
+]
