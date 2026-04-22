@@ -1,0 +1,10 @@
+{
+  "id": 126254363,
+  "created_at": "2026-04-22T21:17:40.000Z",
+  "repository_selection": "selected",
+  "permissions": {
+    "metadata": "read",
+    "statuses": "write"
+  },
+  "repositories": ["hakai-api-client-r", "gaplightr", "hydrocan"]
+}
