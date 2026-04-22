@@ -1,8 +1,11 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
+	url = https://github.com/hakaiinstitute/hakaiinstitute.r-universe.dev
 	branch = HEAD
+[submodule "gaplightr"]
+	path = gaplightr
+	url = https://github.com/HakaiInstitute/gaplightr
 [submodule "hakaiApi"]
 	path = hakaiApi
-	url = https://github.com/hakaiinstitute/hakai-api-client-r
+	url = https://github.com/HakaiInstitute/hakai-api-client-r
 	subdir = hakaiApi
