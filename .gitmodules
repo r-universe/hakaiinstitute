@@ -9,3 +9,6 @@
 	path = hakaiApi
 	url = https://github.com/HakaiInstitute/hakai-api-client-r
 	subdir = hakaiApi
+[submodule "hydrocan"]
+	path = hydrocan
+	url = https://github.com/HakaiInstitute/hydrocan
